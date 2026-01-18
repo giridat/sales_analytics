@@ -1,5 +1,8 @@
 # 📊 Superstore Sales Performance Dashboard
 
+🔗 **Google Sheets Dashboard:** 
+https://docs.google.com/spreadsheets/d/1mv2DZzlWOHcmcOrTriZeHcrsdxApss_uXFB7dR9nR6Y/edit?usp=sharing
+
 🔗 **Live Tableau Dashboard:**  
 https://public.tableau.com/views/SuperstoreSalesPerformanceDashboard_17687388073650/SuperstoreSalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 
@@ -108,6 +111,10 @@ superstore-sales-analytics/
 ---
 
 ## 🚀 Live Demo
+
+🔗 **Google Sheets Dashboard:** 
+https://docs.google.com/spreadsheets/d/1mv2DZzlWOHcmcOrTriZeHcrsdxApss_uXFB7dR9nR6Y/edit?usp=sharing
+
 
 🔗 **Tableau Public Dashboard:**  
 https://public.tableau.com/views/SuperstoreSalesPerformanceDashboard_17687388073650/SuperstoreSalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
