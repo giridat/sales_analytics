@@ -1,4 +1,8 @@
+
 # 📊 Superstore Sales Performance Dashboard
+
+<img width="1920" height="1030" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/6a2a0804-38b2-4429-b554-77036431f52c" />
+<img width="1920" height="1030" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/75880c7e-8a35-4a8c-a4b2-e77e2a7a2e79" />
 
 🔗 **Google Sheets Dashboard:** 
 https://docs.google.com/spreadsheets/d/1mv2DZzlWOHcmcOrTriZeHcrsdxApss_uXFB7dR9nR6Y/edit?usp=sharing
